@@ -1,6 +1,7 @@
 """ 
 https://www.acmicpc.net/problem/14791
 깔끔한 숫자
+14791
 """
 
 import sys
